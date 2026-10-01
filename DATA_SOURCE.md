@@ -29,11 +29,8 @@ SHA-256 of the supplied CSV:
 ```
 
 No participant needs `yfinance`, a Yahoo account, or a separate market-data download.
-No private competition-year or holdout files are included. Attribution identifies the
-source; it does not establish permission to redistribute. Before publishing the CSV
-in a public repository, the organisers should confirm the applicable data-provider
-terms. If public redistribution is not permitted, share the allowed workshop copy
-through the approved channel and retain the notebook's upload/path option.
+No private competition-year or holdout files are included. This source attribution
+is not a separate license for the market data; applicable provider terms still apply.
 
 Source references: [yfinance download documentation](https://ranaroussi.github.io/yfinance/reference/api/yfinance.download.html),
 [Yahoo terms](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html).

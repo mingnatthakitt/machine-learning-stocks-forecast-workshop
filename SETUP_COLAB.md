@@ -24,6 +24,9 @@ configured `DATA_URL` for the published repository. Otherwise step 4 prompts for
 an upload. Opening a notebook from GitHub does not copy the repository's data files
 into Colab.
 
+During Round 1, do not use Colab’s AI chat, code generation or AI suggestions.
+The human-only rule applies to built-in assistants too.
+
 ## If something goes wrong
 
 - Missing core package: run a new code cell containing
