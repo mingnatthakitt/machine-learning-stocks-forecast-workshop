@@ -1,10 +1,10 @@
 {
   "repository": "mingnatthakitt/machine-learning-stocks-forecast-workshop",
-  "data_revision": "833b970",
+  "data_revision": "833b9701ee82be37ca8cf638f00a365b8bc8f38b",
   "files": {
     ".gitignore": "9619646db5c352bfe6b73a88bddbb4c6e3f7e373dc43c735547c8d4955fa435a",
     "README.md": "bbbfa0b6308bb8644cebe6b7dc2f133e7252c944766b3520cdc0842b34232fad",
-    "workshop.ipynb": "e634f2021b81ade3ae07ffd82df15a902fb3db237d0a97c6fa62147eab60c4fc",
+    "workshop.ipynb": "757a4cb711d1b4f5d8cea7b3acfa94032bbf12d3be2e8f28d48966ce4f3ddbcc",
     "GUIDE.md": "43668083dbfe45f544188ae984bc7d0ba690ff8b6efca00390e96a39252fc935",
     "CHEATSHEET.md": "e84fe0fc5d988e7e031d65c5f043740f8c121ac84661c52ccbf81d5f03715374",
     "SETUP_COLAB.md": "1004674d29bfc34b0476587c227e3b3150bba588bf330980015cf6dec19d598d",
