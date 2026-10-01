@@ -1,0 +1,3 @@
+# macOS participant setup; omit XGBoost to avoid the observed OpenMP conflict.
+-r requirements-core.txt
+torch==2.13.0

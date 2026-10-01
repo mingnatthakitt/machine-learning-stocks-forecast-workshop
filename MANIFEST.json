@@ -1,0 +1,18 @@
+{
+  "repository": "mingnatthakitt/machine-learning-stocks-forecast-workshop",
+  "data_revision": "main",
+  "files": {
+    ".gitignore": "9619646db5c352bfe6b73a88bddbb4c6e3f7e373dc43c735547c8d4955fa435a",
+    "README.md": "bbbfa0b6308bb8644cebe6b7dc2f133e7252c944766b3520cdc0842b34232fad",
+    "workshop.ipynb": "2f45af0f5f9d943e5791989007e6837e262e735f763e783822245dc76267f69d",
+    "GUIDE.md": "43668083dbfe45f544188ae984bc7d0ba690ff8b6efca00390e96a39252fc935",
+    "CHEATSHEET.md": "e84fe0fc5d988e7e031d65c5f043740f8c121ac84661c52ccbf81d5f03715374",
+    "SETUP_COLAB.md": "4c0a5453d2e5c0647ca2ee37bf0fefe99499429bbcfa1fd20c30026332cf2d94",
+    "SETUP_VENV.md": "ad8b663af8a42f27cc22784f399d63b64192c29c499318bd4e3d7fd394c48f64",
+    "DATA_SOURCE.md": "5d5880c68e780c37b6861d9b57768cb0d10ef817eee2b77d531a2d6a6200261f",
+    "requirements.txt": "c81533688bd632276d129885cd075368d418b57fdf0b53315c8d31f6c1f7e5c7",
+    "requirements-core.txt": "e7552b62e9953bbe23be33bfbfa1757bbaeb40ee4dc14d10272503585e0b0a33",
+    "requirements-macos.txt": "48a384d5e956b92e7e25b1150064154a9cbd82491c89dcae820d8cef43bdc587",
+    "data/workshop_participant.csv": "3231d9280e869080c6c7dcac42b6a4758226d223b79cb382176013604582b488"
+  }
+}

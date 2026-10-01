@@ -1,0 +1,5 @@
+# Full participant setup for Linux / Windows (Python 3.12 recommended).
+# Install CPU PyTorch first: see SETUP_VENV.md. macOS: use requirements-macos.txt.
+-r requirements-core.txt
+xgboost==3.4.1
+torch==2.13.0
